@@ -1,0 +1,9 @@
+{
+  "name": "Tiny Websocket Server",
+  "version": "${FBSTRING_PLUGIN_VERSION}",
+  "description": "A websocket server for your browser",
+
+	"plugins": [
+    { "path": "npTinyWebsocketServer.dll", "public": true }
+  ]
+}
