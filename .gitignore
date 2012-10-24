@@ -1,1 +1,5 @@
 mac_bundle/TinyWebSocket.plugin/Contents/MacOS/*
+glue/*
+*.os
+*.out
+*.dylib

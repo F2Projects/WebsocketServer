@@ -61,5 +61,5 @@ env['BUILDERS']['Nixysa'] = Builder(action=NIXYSA_CMDLINE,
 AUTOGEN_OUTPUT = env.Nixysa(IDL_SOURCES)
 AUTOGEN_CC_FILES = [f for f in AUTOGEN_OUTPUT if f.suffix == '.cc']
 
-env.SharedLibrary('helloworld', AUTOGEN_CC_FILES + SOURCES +
+env.SharedLibrary('tinywebsocket', AUTOGEN_CC_FILES + SOURCES +
                   ['$STATIC_GLUE_DIR/' + f for f in STATIC_GLUE_SOURCES])
