@@ -28,7 +28,7 @@ Use
 
 	make
 
-to compile the plugin for your system. If you use Mac OS, there are some additional operation to do. Use 
+to compile the plugin for your system. If you use Mac OS, there are some additional operations to do. Use 
 
 	make mac
 
