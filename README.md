@@ -5,7 +5,9 @@ A websocket server plugin for your browser!
 Index
 -----
 
-[Compile] (https://github.com/F2Projects/WebsocketServer#compile)
+[Websocket Server] (https://github.com/F2Projects/WebsocketServer#websocket-server)
+	[Prepare the environment] (https://github.com/F2Projects/WebsocketServer#prepare-the-environment)
+	[Compile] (https://github.com/F2Projects/WebsocketServer#compile)
 
 Prepare the environment
 -----------------------
