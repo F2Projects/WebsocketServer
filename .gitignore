@@ -3,3 +3,4 @@ glue/*
 *.os
 *.out
 *.dylib
+.sconsign.dblite
