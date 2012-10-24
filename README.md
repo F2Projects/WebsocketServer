@@ -6,6 +6,8 @@ Index
 -----
 
 [Websocket Server] (https://github.com/F2Projects/WebsocketServer#websocket-server)
+
+[Let's start] (https://github.com/F2Projects/WebsocketServer#lets-start)
 	
 * [Prepare the environment] (https://github.com/F2Projects/WebsocketServer#prepare-the-environment)
 
