@@ -6,13 +6,17 @@ Index
 -----
 
 [Websocket Server] (https://github.com/F2Projects/WebsocketServer#websocket-server)
+	
+* [Prepare the environment] (https://github.com/F2Projects/WebsocketServer#prepare-the-environment)
 
-	[Prepare the environment] (https://github.com/F2Projects/WebsocketServer#prepare-the-environment)
+* [Compile] (https://github.com/F2Projects/WebsocketServer#compile)
 
-	[Compile] (https://github.com/F2Projects/WebsocketServer#compile)
 
-Prepare the environment
------------------------
+Let's start
+-----------
+
+### Prepare the environment
+
 Download the nixysa framework cloning the following repository
 
 	svn checkout http://nixysa.googlecode.com/svn/trunk/ nixysa
@@ -32,8 +36,8 @@ to build successfully the plugin!
 
 [Back on top] (https://github.com/F2Projects/WebsocketServer#websocket-server)
 
-Compile
-------
+### Compile
+
 The easier way to compile the plugin is with make. 
 Use
 
