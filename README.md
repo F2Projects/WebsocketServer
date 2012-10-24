@@ -6,7 +6,9 @@ Index
 -----
 
 [Websocket Server] (https://github.com/F2Projects/WebsocketServer#websocket-server)
+
 	[Prepare the environment] (https://github.com/F2Projects/WebsocketServer#prepare-the-environment)
+
 	[Compile] (https://github.com/F2Projects/WebsocketServer#compile)
 
 Prepare the environment
@@ -28,6 +30,8 @@ The structure must be
 
 to build successfully the plugin!
 
+[Back on top] (https://github.com/F2Projects/WebsocketServer#websocket-server)
+
 Compile
 ------
 The easier way to compile the plugin is with make. 
@@ -44,3 +48,6 @@ and don't care! On Mac OS you can directly install the plugin with
 	make mac_install
 
 This feature will be implemented soon on the other operating systems.
+
+[Back on top] (https://github.com/F2Projects/WebsocketServer#websocket-server)
+
