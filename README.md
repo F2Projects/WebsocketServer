@@ -2,6 +2,11 @@ Websocket Server
 =========================
 A websocket server plugin for your browser!
 
+Index
+-----
+
+[Compile] (https://github.com/F2Projects/WebsocketServer#compile)
+
 Prepare the environment
 -----------------------
 Download the nixysa framework cloning the following repository
