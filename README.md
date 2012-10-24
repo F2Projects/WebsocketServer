@@ -2,20 +2,21 @@ Websocket Server
 =========================
 A websocket server plugin for your browser!
 
-Installation
-------------
-Download the firebreath framework cloning the following repository
+Prepare the environment
+-----------------------
+Download the nixysa framework cloning the following repository
 
-	git clone git://github.com/firebreath/FireBreath.git firebreath
+	svn checkout http://nixysa.googlecode.com/svn/trunk/ nixysa
 
-entering into the freshly created folder with `cd firebreath` and refresh all the dependencies source code with
-
-	git submodule update --init --recursive
-
-now come back to the main folder with `cd ../`, create the new folder `mkdir projects && cd projects` and clone this repo
+and clone this repo with
 	
 	git clone https://github.com/F2Projects/WebsocketServer.git TinyWebsocketServer
 
-come back to main folder with `cd ../` and finally prepare the mac specific build environmet with 
+The structure must be 
 	
-	./firebreath/prepmac.sh projects/ build_mac/
+	your_develop_folder/
+	|
+	`nixysa/
+	`TinyWebsocketServer/
+
+to build successfully the plugin!
