@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>tinywebsocket</string>
+	<key>CFBundleIdentifier</key>
+	<string>tiny.websocket.server</string>
+	<key>CFBundlePackageType</key>
+	<string>BRPL</string>
+      	<key>WebPluginMIMETypes</key>
+        <dict>
+                <key>application/TinyWebSocketServer</key>
+                <dict>
+                        <key>WebPluginTypeDescription</key>
+                        <string>A websocket server for your browser</string>
+                </dict>
+        </dict>
+
+</dict>
+</plist>
