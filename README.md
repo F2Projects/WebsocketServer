@@ -23,6 +23,10 @@ Download the nixysa framework cloning the following repository
 
 	svn checkout http://nixysa.googlecode.com/svn/trunk/ nixysa
 
+the boost libraries from
+
+  svn co http://svn.boost.org/svn/boost/trunk boost
+
 and clone this repo with
 	
 	git clone https://github.com/F2Projects/WebsocketServer.git TinyWebsocketServer
@@ -31,6 +35,7 @@ The structure must be
 	
 	your_develop_folder/
 	|
+  `boost/
 	`nixysa/
 	`TinyWebsocketServer/
 
